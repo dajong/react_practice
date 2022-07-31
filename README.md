@@ -1,2 +1,3 @@
-# react_practice
-This repo contains beginner react practice projects
+# React practice
+### This repo contains beginner react practice projects
+- Basic Feedback UI
